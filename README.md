@@ -1,1 +1,1 @@
-# MindTalks
+# Mind-Talks
